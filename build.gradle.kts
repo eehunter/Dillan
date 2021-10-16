@@ -17,7 +17,8 @@ buildscript {
 apply<KorgeGradlePlugin>()
 
 korge {
-	id = "com.sample.demo"
+	id = "com.oyosite.ticon.dillan"
+	name = "Dillan"
 
 // To enable all targets at once
 
